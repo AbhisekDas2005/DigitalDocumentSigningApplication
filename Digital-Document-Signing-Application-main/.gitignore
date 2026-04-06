@@ -1,0 +1,7 @@
+target/
+.DS_Store
+Project_Report.md
+dependency-reduced-pom.xml
+.idea/
+*.class
+*.jar
